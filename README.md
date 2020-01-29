@@ -1,6 +1,6 @@
 ## OPA demo
 
-First install OPA using their instructions:
+First install OPA using their instructions: https://www.openpolicyagent.org/docs/latest/#running-opa
 
 
 
